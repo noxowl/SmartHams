@@ -1,0 +1,5 @@
+{
+    "ada.projectFile": "smart_hams.gpr",
+    "ada.trace.server": "verbose",
+    "gpr.trace.server": "verbose"
+}
